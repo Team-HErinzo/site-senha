@@ -1,20 +1,14 @@
 const numeroSenha = document.querySelector('.parametro-senha_texto')
 const botoes = document.querySelectorAll('.parametro-senha_botao')
 
-console.log[0]
+botoes[0].onclick = diminuirTamanho
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+function diminuirTamanho(){
+    console.log('teste')
+}
 numeroSenha.textContent = 6
