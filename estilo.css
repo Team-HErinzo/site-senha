@@ -116,6 +116,10 @@ body{
     cursor: pointer;
 }
 
+.parametro-senha-botoes{
+    display: flex;
+}
+
 .barra{
     background-color: var(--cor-de-fundo);
     height: 30px;
