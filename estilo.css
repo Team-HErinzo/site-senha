@@ -121,6 +121,13 @@ body{
     justify-content: center;
 }
 
+.parametro-senha_texto{
+
+    width: 25%;
+
+
+}
+
 .barra{
     background-color: var(--cor-de-fundo);
     height: 30px;
