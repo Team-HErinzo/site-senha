@@ -114,9 +114,11 @@ body{
     padding: 24px;
     font-size: 24px;
     cursor: pointer;
-    display: flex;
 }
 
+.parametro-senha-botoes{
+    display: flex;
+}
 
 .barra{
     background-color: var(--cor-de-fundo);
