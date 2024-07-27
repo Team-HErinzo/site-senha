@@ -114,6 +114,7 @@ body{
     padding: 24px;
     font-size: 24px;
     cursor: pointer;
+    width: 25%;
 }
 
 .parametro-senha-botoes{
