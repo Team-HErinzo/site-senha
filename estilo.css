@@ -117,9 +117,8 @@ body{
 }
 
 .parametro-senha-botoes{
-    width: 25%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .barra{
