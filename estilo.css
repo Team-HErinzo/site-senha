@@ -48,7 +48,7 @@ body{
 
 .parametro{
 
-    background-color: rgb(99, 192, 204);
+    background-color: palevioletred;
     border: 2px solid var(--borda);
     margin-top: 32px;   
     padding: 24px;
