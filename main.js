@@ -3,7 +3,10 @@ const botoes = document.querySelectorAll('.parametro-senha_botao')
 
 botoes[0].onclick = diminuirTamanho
 
+let tamanhoSenha = 5
+
 function diminuirTamanho(){
     console.log('teste')
+    tamanhoSenha = tamanhoSenha - 1
 }
-numeroSenha.textContent = 6
+numeroSenha.textContent = tamanhoSenha
