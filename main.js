@@ -7,7 +7,7 @@ botoes[1].onclick = aumentarTamanho
 let tamanhoSenha = 5
 numeroSenha.textContent = tamanhoSenha
 
-let maiucula = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',]
+let maiucula = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 function diminuirTamanho(){
     if (tamanhoSenha > 1) 
