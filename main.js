@@ -8,13 +8,13 @@ let tamanhoSenha = 5
 numeroSenha.textContent = tamanhoSenha
 
 function diminuirTamanho(){
-    console.log('teste')
+    if (tamanhoSenha > 1) {
     tamanhoSenha = tamanhoSenha - 1
     numeroSenha.textContent = tamanhoSenha
 }
 
 function aumentarTamanho(){
-    console.log('teste')
+    if (tamanhoSenha < 20)
     tamanhoSenha = tamanhoSenha + 1
     numeroSenha.textContent = tamanhoSenha
 }
