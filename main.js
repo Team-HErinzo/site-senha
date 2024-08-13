@@ -19,6 +19,10 @@ let simbolos = "!?@%*&"
 geraSenha()
 console.log(maiuscula);
 
+for(i=0; 1 < checkbox.length;i++){
+    checkbox[i].onclick = geraSenha
+}
+
 function diminuirTamanho(){
     if (tamanhoSenha > 1){
     tamanhoSenha = tamanhoSenha - 1
