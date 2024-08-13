@@ -1,6 +1,9 @@
 const numeroSenha = document.querySelector('.parametro-senha_texto');
 const botoes = document.querySelectorAll('.parametro-senha_botao');
 const campoSenha = document.querySelector('#campo-senha');
+const checkbox = document.querySelectorAll('.checkbox')
+
+console.log(checkbox)
 
 botoes[0].onclick = diminuirTamanho
 botoes[1].onclick = aumentarTamanho
