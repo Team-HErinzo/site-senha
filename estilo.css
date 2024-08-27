@@ -141,17 +141,17 @@ body{
 
 .fraca{
     width: 25%;
-    background-color: rgb(255, 4, 222);
+    background-color: rgba(241, 48, 154, 0.699);
 }
 
 .media{
     width: 50%;
-    background-color: rgb(255, 4, 222);
+    background-color: rgba(241, 48, 154, 0.699);
 }
 
 .forte{
     width: 100%;
-    background-color: rgba(252, 79, 174, 0.753);
+    background-color: rgba(241, 48, 154, 0.699);
 }
 
 .parametro-senha-textos{
